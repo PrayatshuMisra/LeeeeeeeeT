@@ -362,6 +362,7 @@
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
@@ -388,6 +389,7 @@
 | [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 ## Simulation
@@ -396,6 +398,7 @@
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
