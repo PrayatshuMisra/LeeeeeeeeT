@@ -193,24 +193,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0011-container-with-most-water) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0001-two-sum) |
-| [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
-| [0141-linked-list-cycle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0142-linked-list-cycle-ii) |
-| [0160-intersection-of-two-linked-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0160-intersection-of-two-linked-lists) |
-| [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
-| [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
-| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
-| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
-| [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
-| [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
-| [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
-| [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
+
 ## Linked List
 |  |
 | ------- |
@@ -412,6 +395,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -445,4 +429,23 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
+| [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
+| [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
+| [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
+| [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
