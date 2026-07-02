@@ -1,38 +1,6 @@
 
 # LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0001-two-sum) |
-| [0011-container-with-most-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0011-container-with-most-water) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0026-remove-duplicates-from-sorted-array) |
-| [0035-search-insert-position](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0035-search-insert-position) |
-| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
-| [0066-plus-one](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0066-plus-one) |
-| [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
-| [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
-| [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
-| [0118-pascals-triangle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
-| [0136-single-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0136-single-number) |
-| [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
-| [0485-max-consecutive-ones](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0485-max-consecutive-ones) |
-| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
-| [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
-| [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
-| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
-| [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
-| [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
-| [1704-special-positions-in-a-binary-matrix](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1704-special-positions-in-a-binary-matrix) |
-| [1833-find-the-highest-altitude](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1833-find-the-highest-altitude) |
-| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1878-check-if-array-is-sorted-and-rotated) |
-| [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
-| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
-| [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
-| [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
-| [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
+
 ## Backtracking
 |  |
 | ------- |
@@ -391,6 +359,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1704-special-positions-in-a-binary-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
@@ -426,6 +395,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
