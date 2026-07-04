@@ -184,34 +184,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0007-reverse-integer) |
-| [0009-palindrome-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0009-palindrome-number) |
-| [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
-| [0029-divide-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0029-divide-two-integers) |
-| [0050-powx-n](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0050-powx-n) |
-| [0066-plus-one](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0066-plus-one) |
-| [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
-| [0171-excel-sheet-column-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0171-excel-sheet-column-number) |
-| [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
-| [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
-| [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
-| [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
-| [0507-perfect-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0507-perfect-number) |
-| [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer) |
-| [1630-count-odd-numbers-in-an-interval-range](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1630-count-odd-numbers-in-an-interval-range) |
-| [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
-| [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
-| [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
-| [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
-| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
-| [4168-mirror-distance-of-an-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4168-mirror-distance-of-an-integer) |
+
 ## Matrix
 |  |
 | ------- |
@@ -362,6 +335,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
@@ -451,6 +425,7 @@
 | [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [4168-mirror-distance-of-an-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4168-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
