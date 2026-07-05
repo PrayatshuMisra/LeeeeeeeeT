@@ -293,6 +293,7 @@
 | [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -389,6 +390,7 @@
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
