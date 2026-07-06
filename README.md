@@ -331,6 +331,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -390,6 +391,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
@@ -427,6 +429,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -449,5 +452,6 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
