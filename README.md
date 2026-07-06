@@ -63,10 +63,7 @@
 | [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
 
-## Counting Sort
-|  |
-| ------- |
-| [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+
 ## Data Stream
 |  |
 | ------- |
@@ -397,6 +394,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -432,6 +430,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3945-digit-frequency-score](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3945-digit-frequency-score) |
 | [4168-mirror-distance-of-an-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4168-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -446,5 +445,6 @@
 | [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
