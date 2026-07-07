@@ -198,11 +198,7 @@
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
-| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+
 
 ## Queue
 |  |
@@ -433,6 +429,7 @@
 | [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
@@ -469,4 +466,10 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2413-smallest-even-multiple) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
