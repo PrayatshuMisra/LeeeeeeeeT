@@ -435,6 +435,7 @@
 | [2413-smallest-even-multiple](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
