@@ -365,6 +365,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
@@ -427,6 +428,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1688-count-of-matches-in-tournament) |
 | [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
