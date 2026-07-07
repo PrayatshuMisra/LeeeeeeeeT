@@ -431,6 +431,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2443-sum-of-number-and-its-reverse) |
