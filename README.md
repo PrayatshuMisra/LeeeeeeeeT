@@ -421,6 +421,7 @@
 | [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0292-nim-game](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0507-perfect-number) |
@@ -473,6 +474,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
 ## Number Theory
 |  |
@@ -480,4 +482,8 @@
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2413-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
