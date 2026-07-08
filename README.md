@@ -341,6 +341,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -379,6 +380,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
+| [3701-compute-alternating-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
