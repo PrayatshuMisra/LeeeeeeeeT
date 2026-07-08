@@ -443,6 +443,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
