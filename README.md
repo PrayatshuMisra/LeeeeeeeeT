@@ -218,16 +218,7 @@
 | ------- |
 | [0195-tenth-line](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0195-tenth-line) |
 
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
-| [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
-| [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
-| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
-| [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+
 ## Stack
 |  |
 | ------- |
@@ -314,6 +305,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
@@ -436,6 +428,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1688-count-of-matches-in-tournament) |
@@ -467,6 +460,7 @@
 | [0011-container-with-most-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 ## Counting
 |  |
@@ -497,6 +491,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Matrix
 |  |
 | ------- |
@@ -504,4 +499,15 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
+| [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
