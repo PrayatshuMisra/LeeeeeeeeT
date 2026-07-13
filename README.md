@@ -101,14 +101,7 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
-| [0118-pascals-triangle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
-| [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
-| [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
+
 ## Graph Theory
 |  |
 | ------- |
@@ -425,6 +418,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3516-find-closest-person) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3945-digit-frequency-score) |
@@ -452,6 +446,7 @@
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -532,4 +527,13 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
