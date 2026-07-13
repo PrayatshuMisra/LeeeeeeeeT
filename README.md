@@ -3,11 +3,7 @@
 
 
 
-## Binary Search Tree
-|  |
-| ------- |
-| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
-| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
+
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +272,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -366,6 +363,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
@@ -487,6 +485,7 @@
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -524,7 +523,13 @@
 | [0035-search-insert-position](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
