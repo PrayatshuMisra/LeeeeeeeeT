@@ -2,14 +2,7 @@
 # LeetCode Topics
 
 
-## Binary Search
-|  |
-| ------- |
-| [0035-search-insert-position](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0035-search-insert-position) |
-| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
-| [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+
 ## Binary Search Tree
 |  |
 | ------- |
@@ -303,6 +296,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -339,6 +333,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -494,6 +489,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -522,4 +518,13 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0693-binary-number-with-alternating-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2323-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
+| [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
