@@ -1,11 +1,7 @@
 
 # LeetCode Topics
 
-## Backtracking
-|  |
-| ------- |
-| [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
-| [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
+
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +302,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3232-find-if-digit-game-can-be-won) |
