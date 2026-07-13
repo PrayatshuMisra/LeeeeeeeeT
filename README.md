@@ -33,27 +33,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0029-divide-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0029-divide-two-integers) |
-| [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
-| [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
-| [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
-| [0136-single-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0136-single-number) |
-| [0190-reverse-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0190-reverse-bits) |
-| [0191-number-of-1-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0191-number-of-1-bits) |
-| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
-| [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
-| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
-| [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
-| [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
-| [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
-| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
-| [0461-hamming-distance](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0461-hamming-distance) |
-| [0476-number-complement](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0476-number-complement) |
-| [0693-binary-number-with-alternating-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0693-binary-number-with-alternating-bits) |
-| [2323-minimum-bit-flips-to-convert-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2323-minimum-bit-flips-to-convert-number) |
+
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +257,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -516,4 +497,32 @@
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
+| [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
+| [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
+| [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
+| [0136-single-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0136-single-number) |
+| [0190-reverse-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
+| [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0693-binary-number-with-alternating-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2323-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
