@@ -257,6 +257,7 @@
 | [0118-pascals-triangle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
@@ -349,6 +350,7 @@
 | [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
 | [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
@@ -388,6 +390,7 @@
 | [0050-powx-n](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0050-powx-n) |
 | [0066-plus-one](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0066-plus-one) |
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
@@ -549,4 +552,8 @@
 | [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
