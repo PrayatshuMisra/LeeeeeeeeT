@@ -224,6 +224,7 @@
 | [0171-excel-sheet-column-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
@@ -329,6 +330,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -390,6 +392,7 @@
 | [0292-nim-game](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
