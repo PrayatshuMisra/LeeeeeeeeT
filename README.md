@@ -286,6 +286,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -375,6 +376,7 @@
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1833-find-the-highest-altitude) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Math
 |  |
 | ------- |
@@ -438,6 +440,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting
 |  |
 | ------- |
@@ -491,6 +494,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
@@ -529,6 +533,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
