@@ -265,6 +265,7 @@
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
@@ -324,6 +325,7 @@
 | [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
@@ -493,6 +495,7 @@
 | [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
