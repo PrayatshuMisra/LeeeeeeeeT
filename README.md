@@ -431,6 +431,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3895-count-digit-appearances](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3895-count-digit-appearances) |
@@ -472,6 +473,7 @@
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2413-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Game Theory
 |  |
 | ------- |
