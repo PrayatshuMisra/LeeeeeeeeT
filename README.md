@@ -177,22 +177,7 @@
 | [0195-tenth-line](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0195-tenth-line) |
 
 
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0020-valid-parentheses) |
-| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
-| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
-| [0155-min-stack](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0155-min-stack) |
-| [0225-implement-stack-using-queues](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0225-implement-stack-using-queues) |
-| [0232-implement-queue-using-stacks](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0232-implement-queue-using-stacks) |
-| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
-| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
-| [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
-| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
-| [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
+
 
 ## Tree
 |  |
@@ -227,6 +212,7 @@
 | [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -563,4 +549,21 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0149-max-points-on-a-line) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
+| [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 <!---LeetCode Topics End-->
