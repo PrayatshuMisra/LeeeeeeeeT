@@ -259,6 +259,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1441-build-an-array-with-stack-operations) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
@@ -326,6 +327,7 @@
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0258-add-digits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -566,6 +568,7 @@
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
