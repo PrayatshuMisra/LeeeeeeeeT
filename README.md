@@ -108,32 +108,7 @@
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 
 
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0002-add-two-numbers) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0019-remove-nth-node-from-end-of-list) |
-| [0021-merge-two-sorted-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0021-merge-two-sorted-lists) |
-| [0061-rotate-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0061-rotate-list) |
-| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0083-remove-duplicates-from-sorted-list) |
-| [0086-partition-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0086-partition-list) |
-| [0141-linked-list-cycle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0142-linked-list-cycle-ii) |
-| [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
-| [0160-intersection-of-two-linked-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0160-intersection-of-two-linked-lists) |
-| [0203-remove-linked-list-elements](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0206-reverse-linked-list) |
-| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
-| [0237-delete-node-in-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0237-delete-node-in-a-linked-list) |
-| [0328-odd-even-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0328-odd-even-linked-list) |
-| [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer) |
-| [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
-| [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
-| [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
-| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+
 
 
 ## Memoization
@@ -320,6 +295,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
@@ -585,4 +561,32 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0328-odd-even-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
