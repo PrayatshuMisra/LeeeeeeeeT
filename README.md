@@ -267,6 +267,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1704-special-positions-in-a-binary-matrix) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1920-build-array-from-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
@@ -317,6 +318,7 @@
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -443,6 +445,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting
@@ -500,6 +503,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
