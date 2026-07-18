@@ -186,6 +186,7 @@
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0520-detect-capital) |
+| [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
@@ -293,6 +294,7 @@
 | [0202-happy-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -542,6 +544,7 @@
 | [0118-pascals-triangle](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
