@@ -197,6 +197,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -304,6 +305,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2216-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -430,6 +432,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Counting
 |  |
 | ------- |
