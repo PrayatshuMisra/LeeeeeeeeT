@@ -263,6 +263,7 @@
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -303,6 +304,7 @@
 | [2396-strictly-palindromic-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2396-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -467,6 +469,7 @@
 | [1704-special-positions-in-a-binary-matrix](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1704-special-positions-in-a-binary-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
