@@ -119,13 +119,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
-| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
-| [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
-| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
+
 
 
 ## Queue
@@ -189,6 +183,7 @@
 | [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -425,6 +420,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -569,6 +565,7 @@
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
@@ -601,4 +598,12 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
