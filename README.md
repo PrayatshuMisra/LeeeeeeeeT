@@ -224,6 +224,7 @@
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0792-binary-search) |
+| [0969-pancake-sorting](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -292,6 +293,7 @@
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0908-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0969-pancake-sorting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -482,6 +485,7 @@
 | [0242-valid-anagram](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0389-find-the-difference) |
+| [0969-pancake-sorting](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
