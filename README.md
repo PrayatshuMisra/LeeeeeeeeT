@@ -127,19 +127,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0232-implement-queue-using-stacks) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0021-merge-two-sorted-lists) |
-| [0050-powx-n](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0050-powx-n) |
-| [0203-remove-linked-list-elements](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0203-remove-linked-list-elements) |
-| [0206-reverse-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0206-reverse-linked-list) |
-| [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
-| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
-| [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
-| [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
-| [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
+
 ## Shell
 |  |
 | ------- |
@@ -613,4 +601,18 @@
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0050-powx-n) |
+| [0050-powx-n](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
