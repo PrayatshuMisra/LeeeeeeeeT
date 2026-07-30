@@ -199,6 +199,7 @@
 | [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0066-plus-one) |
+| [0075-sort-colors](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
@@ -273,6 +274,7 @@
 | [0027-remove-element](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0148-sort-list) |
 | [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
