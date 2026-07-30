@@ -182,6 +182,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
@@ -399,6 +400,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2812-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -428,6 +430,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting
 |  |
 | ------- |
