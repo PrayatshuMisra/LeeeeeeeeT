@@ -210,6 +210,7 @@
 | [0169-majority-element](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0169-majority-element) |
 | [0268-missing-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0503-next-greater-element-ii) |
@@ -380,6 +381,7 @@
 | [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
