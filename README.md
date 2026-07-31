@@ -183,6 +183,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2942-find-words-containing-character](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
@@ -348,6 +349,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -438,6 +440,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
@@ -447,6 +450,7 @@
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
@@ -506,6 +510,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
