@@ -102,10 +102,7 @@
 | ------- |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 
-## Graph Theory
-|  |
-| ------- |
-| [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
+
 
 
 
@@ -649,4 +646,34 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
