@@ -19,14 +19,7 @@
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
 
-## Breadth-First Search
-|  |
-| ------- |
-| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
-| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+
 
 
 ## Data Stream
@@ -262,6 +255,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
@@ -354,6 +348,7 @@
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
@@ -512,6 +507,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
