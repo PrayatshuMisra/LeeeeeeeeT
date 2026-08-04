@@ -65,17 +65,7 @@
 | [2110-employees-with-missing-information](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3816-dna-pattern-recognition) |
-## Depth-First Search
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
-| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
-| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
-| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+
 ## Design
 |  |
 | ------- |
@@ -150,6 +140,7 @@
 | [0008-string-to-integer-atoi](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0125-valid-palindrome) |
