@@ -179,6 +179,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0066-plus-one) |
@@ -503,6 +504,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
