@@ -613,6 +613,7 @@
 | [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+| [3310-remove-methods-from-project](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -622,6 +623,7 @@
 | [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+| [3310-remove-methods-from-project](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -630,6 +632,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3310-remove-methods-from-project) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
 ## Database
 |  |
