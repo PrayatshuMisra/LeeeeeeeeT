@@ -4,20 +4,7 @@
 
 
 
-## Binary Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
-| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
-| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
-| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
-| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
-| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
+
 
 
 
@@ -523,6 +510,7 @@
 | [0119-pascals-triangle-ii](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0647-palindromic-substrings) |
+| [0968-binary-tree-cameras](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0968-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
@@ -615,6 +603,7 @@
 | [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+| [0968-binary-tree-cameras](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0968-binary-tree-cameras) |
 | [3310-remove-methods-from-project](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -676,4 +665,38 @@
 | [2110-employees-with-missing-information](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3816-dna-pattern-recognition) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0968-binary-tree-cameras) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0968-binary-tree-cameras) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
