@@ -91,6 +91,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -155,6 +156,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1704-special-positions-in-a-binary-matrix) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1833-find-the-highest-altitude) |
@@ -271,6 +273,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -376,6 +379,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -473,6 +477,7 @@
 | [0461-hamming-distance](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0693-binary-number-with-alternating-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2323-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
