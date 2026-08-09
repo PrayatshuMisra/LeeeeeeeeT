@@ -65,20 +65,7 @@
 
 
 
-## Tree
-|  |
-| ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0094-binary-tree-inorder-traversal) |
-| [0100-same-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0100-same-tree) |
-| [0101-symmetric-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0145-binary-tree-postorder-traversal) |
-| [0222-count-complete-tree-nodes](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0222-count-complete-tree-nodes) |
-| [0226-invert-binary-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0226-invert-binary-tree) |
-| [0450-delete-node-in-a-bst](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0450-delete-node-in-a-bst) |
-| [0617-merge-two-binary-trees](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0617-merge-two-binary-trees) |
-| [0783-search-in-a-binary-search-tree](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0783-search-in-a-binary-search-tree) |
+
 
 
 <!---LeetCode Topics Start-->
@@ -106,6 +93,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -283,6 +271,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2634-minimum-common-value) |
@@ -387,6 +376,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1635-number-of-good-pairs) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-maximum-ice-cream-bars](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1961-maximum-ice-cream-bars) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
