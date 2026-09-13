@@ -186,6 +186,7 @@
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3701-compute-alternating-sum) |
@@ -283,6 +284,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/3408-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3731-find-missing-elements) |
@@ -393,6 +395,7 @@
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
@@ -585,6 +588,7 @@
 | [0342-power-of-four](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
