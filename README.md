@@ -192,6 +192,7 @@
 | [3701-compute-alternating-sum](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3925-concatenate-array-with-reverse) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4271-find-the-degree-of-each-vertex) |
@@ -357,6 +358,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/PrayatshuMisra/LeeeeeeeeT/tree/master/3945-digit-frequency-score) |
 | [4168-mirror-distance-of-an-integer](https://github.com/PrayatshuMisra/leeeeeeeet/tree/main/4168-mirror-distance-of-an-integer) |
